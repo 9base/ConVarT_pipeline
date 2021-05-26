@@ -1,3 +1,9 @@
+> **9base status: Preserved.** Preserved upstream analysis pipeline from [Kaplan Lab](https://github.com/thekaplanlab/ConVarT_pipeline), no longer maintained by 9base. The audited `master`, `hash-search` and `pipeline-update` branches exactly matched their same-named upstream branches; no 9base-specific branch development was established. Scientific authorship remains with the upstream authors.
+>
+> Documentation reconstructed from repository history on 8 October 2026. See [9base provenance and patch notes](9BASE.md).
+
+---
+
 # ConVarT Pipeline
 
 ![ConVarT](http://convart.org/files/img/convart_black.png)
